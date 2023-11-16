@@ -1,3 +1,5 @@
+mkdir /var/
+mkdir /var/www/
 mkdir /var/www/dataverse/
 mkdir /var/www/dataverse/branding/
 cp analytics-code.html /var/www/dataverse/branding/
