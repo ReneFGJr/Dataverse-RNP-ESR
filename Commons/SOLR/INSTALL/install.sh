@@ -28,3 +28,5 @@ echo "solr soft nofile 65000"
 echo "solr hard nofile 65000"
 
 echo "name=collection1" > /usr/local/solr/solr-9.3.0/server/solr/collection1/core.properties
+cd solr-9.3.0
+bin/solr create_core -c collection1 -d server/solr/collection1/conf/
