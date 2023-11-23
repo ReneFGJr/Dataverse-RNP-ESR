@@ -1,0 +1,1 @@
+sudo certbot --apache -d venus.brapci.inf.br
