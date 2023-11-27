@@ -1,0 +1,5 @@
+echo "Para versão 6 do Payara/Dataverse"
+echo "================================="
+echo "dataverse.handlenet.admcredfile"
+echo "dataverse.handlenet.admprivphrase"
+echo "dataverse.handlenet.index"
