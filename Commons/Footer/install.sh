@@ -5,4 +5,4 @@ mkdir /var/www/dataverse/branding/
 
 echo "Copiar FOOTER"
 cp *.html /var/www/dataverse/branding/.
-curl -X PUT -d '/var/www/dataverse/branding/welcome.xhtml' http://localhost:8080/api/admin/settings/:FooterCustomizationFile
+curl -X PUT -d '/var/www/dataverse/branding/custom-footer.html' http://localhost:8080/api/admin/settings/:FooterCustomizationFile
