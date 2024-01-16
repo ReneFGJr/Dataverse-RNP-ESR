@@ -3,7 +3,7 @@ mkdir /var/www/
 mkdir /var/www/dataverse/
 mkdir /var/www/dataverse/branding/
 mkdir /var/www/dataverse/branding/js/
-cp style.css /var/www/dataverse/branding/
+cp welcome.xhtml /var/www/dataverse/branding/
 
 echo "Copiar JavaScript"
 cp dataverse.js /var/www/dataverse/branding/js/dataverse.js
