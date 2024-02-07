@@ -1,0 +1,1 @@
+curl http://localhost:8080/api/admin/datasetfield/load -X POST --data-binary @citation_area_cnpq.tsv -H "Content-type: text/tab-separated-values"

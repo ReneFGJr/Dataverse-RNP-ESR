@@ -1,0 +1,20 @@
+#metadataBlock	name	dataverseAlias	displayName	blockURI
+	citation		Citation Metadata	https://dataverse.org/schema/citation/
+#datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
+	subject	Subject	The area of study relevant to the Dataset		text	19		TRUE	TRUE	TRUE	TRUE	TRUE	TRUE		citation	http://purl.org/dc/terms/subject
+#controlledVocabulary	DatasetField	Value	identifier	displayOrder
+	subject	Agricultural Sciences	D01	0
+	subject	Arts and Humanities	D0	1
+	subject	Astronomy and Astrophysics	D1	2
+	subject	Business and Management	D2	3
+	subject	Chemistry	D3	4
+	subject	Computer and Information Science	D7	5
+	subject	Earth and Environmental Sciences	D4	6
+	subject	Engineering	D5	7
+	subject	Law	D8	8
+	subject	Mathematical Sciences	D9	9
+	subject	Medicine, Health and Life Sciences	D6	10
+	subject	Physics	D10	11
+	subject	Social Sciences	D11	12
+	subject	Other	D12	999
+	subject	Information Science	CNPQ76	20
